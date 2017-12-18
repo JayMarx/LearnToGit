@@ -6,7 +6,7 @@ Content test!
 ### Contents
 1. [Discription](#discription)
 2. [How to use it?](#how-to-use-it)
-3. [Usage](#Usage)
+3. [Usage](#usage)
 
 ### Discription
 蜻蜓队长请回到裁判席
@@ -16,9 +16,9 @@ Content test!
 「大概多用就会了吧」  
 
 ### Usage
-- note1
+- note1  
   绝对不可以意气用事
-- note2
+- note2  
   绝对不漏判任何一件坏事
-- note3
+- note3  
   绝对裁判的公正漂亮
